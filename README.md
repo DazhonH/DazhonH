@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Dazhon+Hunt!;" />
 </h1>
 
-<h3 align="center"> Formerly in FP&A, I've pivoted to data analysis, now diving into the world of data engineering.</h3>
+<h3 align="center"> Formerly in FP&A, I've pivoted to data analysis, now diving into the world of data engineering!</h3>
 
 <br/>
 
@@ -32,10 +32,8 @@
 <h2 align="center"> Languages & Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,azure,gcp" /><br>
-  <img alt="Jupyter Notebook" width="40px" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" />
-<img alt="PostgreSQL" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />
-</div>
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure,gcp,&theme=light" /><br>
+  
 
 <br/>
 <hr/>
