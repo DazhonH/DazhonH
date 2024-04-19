@@ -11,7 +11,7 @@
  
  **Open to Collaborations and Networking!**
  
-  **I’m currently studying for the DP-203: Data Engineer Associate Certification**
+  **I’m currently studying for the DP-203: Azure Data Engineer Associate Certification**
 
  </div>
  
