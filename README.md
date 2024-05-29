@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Dazhon+Hunt!;" />
 </h1>
 
-<h3 align="center">Passionate about transforming data into actionable insights and driving business success, always learning and exploring new technologies!</h3>
+<h3 align="center">Passionate about transforming data into actionable insights and driving business success. Always learning and exploring new technologies!</h3>
 
 <br/>
 
