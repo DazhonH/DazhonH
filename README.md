@@ -3,15 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Dazhon+Hunt!;" />
 </h1>
 
-<h3 align="center"> Formerly in FP&A, I've pivoted to data analysis, now diving into the world of data engineering!</h3>
+<h3 align="center">Passionate about transforming data into actionable insights and driving business success, always learning and exploring new technologies!</h3>
 
 <br/>
 
 <div align="center">
  
  **Open to Collaborations and Networking!**
- 
-  **I’m currently studying for the DP-203: Azure Data Engineer Associate Certification**
 
  </div>
  
