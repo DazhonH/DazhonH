@@ -9,7 +9,7 @@
 
 <div align="center">
  
- **Open to Collaborations and Networking!**
+ **Open to Collaborationa and Networking!**
 
  </div>
  
